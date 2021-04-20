@@ -1,10 +1,7 @@
 # nandasritalluri.github.io
 
-<!DOCTYPE html>
 <html>
-  <h1 style="text-align:center;">MY MIS301 HTML ASSIGNMENT - 2021</h1>
-  <h1 style="text-align:center;font-family:signpainter;">My name is Nandasri Talluri </h1>
-  <h1 style="text-align:center;font-family:heiti sc;">WELCOME TO MY WEBSITE! </h2>
+  <h1 style="text-align:center;font-family:signpainter;">My name is Nandasri Talluri. welcome to my site! </h1>
 
 <center><img src="colorado.JPG" width="400" height="266">
   
