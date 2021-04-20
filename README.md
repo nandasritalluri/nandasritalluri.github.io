@@ -2,7 +2,7 @@
 <html>
   <h1 style="text-align:center;font-family:signpainter;">My name is Nandasri Talluri, welcome to my site! </h1>
 
-<center><img src="colorado.JPG" width="400" height="266"/>
+<center><img src="Friends.JPG" width="400" height="266"/>
   
 <b><h1 style="text-align:center;font-family:signpainter;font-style:bold;> align="center"> ABOUT ME </h1>
 <p style ="text-align:center;font-family:heiti sc;font-size:16px;font-style:italic"> 
