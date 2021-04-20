@@ -1,7 +1,6 @@
-# nandasritalluri.github.io
 
 <html>
-  <h1 style="text-align:center;font-family:signpainter;">My name is Nandasri Talluri. welcome to my site! </h1>
+  <h1 style="text-align:center;font-family:signpainter;">My name is Nandasri Talluri, welcome to my site! </h1>
 
 <center><img src="colorado.JPG" width="400" height="266"/>
   
@@ -24,4 +23,3 @@
 </body>
 
 <hr />
-</html>
